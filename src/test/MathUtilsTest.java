@@ -18,7 +18,7 @@ MathUtil calc;
 //		Create instance of class
 		System.out.println("Starting to creat object");
 		MathUtil calc = new MathUtil();
-		System.out.println("Created object");//Created object
+		System.out.println("Created object");
 	}
 	
 	
